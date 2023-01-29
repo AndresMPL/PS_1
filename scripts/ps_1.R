@@ -1,17 +1,24 @@
-## PROBLEM SET 1 ##
-
-# (2) Data description
+                        ## PROBLEM SET 1 ##
 
 
-
-# (3) Age-wage profile
+# (2) Data description ----------------------------------------------------
 
 
 
-# (4) The gender earnings GAP
 
 
-#(a) Begin by estimating and discussing the unconditional wage gap:
+
+# (3) Age-wage profile ----------------------------------------------------
+
+
+
+
+
+
+# (4) The gender earnings GAP ---------------------------------------------
+
+
+#(a) Begin by estimating and discussing the unconditional wage gap
 
 
 #(b) Equal Pay for Equal Work?
@@ -21,8 +28,7 @@
 
 
 
-#(5) Predicting earnings
-
+# (5) Predicting earnings -------------------------------------------------
 
 #(a) Split the sample into two:
 
