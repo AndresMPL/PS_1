@@ -21,15 +21,16 @@ library(readxl)
 library(rvest)
 
 
-prueba <- read_html("https://ignaciomsarmiento.github.io/GEIH2018_sample/page1.html")
+prueba <- "https://ignaciomsarmiento.github.io/GEIH2018_sample/page1.html"
+tmp <- read_html(prueba)
+tmp2 <- html_nodes(tmp,"table")
+length(tmp2)
+sapply(tmp2,class)
 
 
 # Cleaning ----------------------------------------------------------------
 
   rm(list=ls())
-
-
-
 
 
 enlace <- "https://ignaciomsarmiento.github.io/GEIH2018_sample/page1.html"
